@@ -2,7 +2,7 @@
 
 Shared-expense tracker for roommates and trip groups, with uneven splits and a **minimal-payments settle-up algorithm**.
 
-**Live app:** `<ADD YOUR DEPLOYED URL>` · **Demo video:** `<ADD LINK>`
+**Live app:** https://settleup-8vjl.onrender.com · **Demo video:** https://drive.google.com/file/d/1W3-s8vsz9AqXAIIiMtAEveuTjUYATktK/view?usp=drive_link
 
 ## Problem Statement
 Groups sharing costs (flatmates, trips) lose track of who paid what. Splits are rarely equal, and settling pairwise creates a mess of small payments.
